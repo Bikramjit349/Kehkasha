@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
             artist: "Stephen Sanchez",
             mood: "romantic",
             src: "Audio/Ishq Wala Love.mp3",
-            image: "images/until-i-found-you.jpg"
+            image: "img/Ishq wala love.jpg"
         },
 
         {
