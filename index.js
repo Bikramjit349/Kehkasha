@@ -35,18 +35,18 @@ document.addEventListener("DOMContentLoaded", () => {
         },
 
         {
-            title: "Chill Vibes",
-            artist: "Artist Name",
-            mood: "chill",
-            src: "audio/chill-vibes.mp3",
-            image: "images/chill-vibes.jpg"
-        },
-
-        {
             title: "Oye boys Charlie",
             artist: "Artist Name",
             mood: "chill",
             src: "Audio/Oye Boy Charlie .mp3",
+            image: "images/chill-vibes.jpg"
+        },
+
+        {
+            title: "Relax",
+            artist: "Artist Name",
+            mood: "chill",
+            src: "src/n.mp3",
             image: "images/relax.jpg"
         },
 
