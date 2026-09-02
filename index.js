@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "Relax",
             artist: "Artist Name",
             mood: "chill",
-            src: "Oye Boy Charlie .mp3",
+            src: "Audio/Oye Boy Charlie .mp3",
             image: "images/relax.jpg"
         },
 
