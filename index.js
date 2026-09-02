@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
             artist: "Artist Name",
             mood: "happy",
             src: "Audio/Shut Up and Dance .mp3",
-            image: "images/good-vibes.jpg"
+            image: "img/Shut.jpg"
         },
 
         {
